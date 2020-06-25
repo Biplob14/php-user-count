@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+    
 }
 
 .wrapper {
-    height: 300px;
-    width: 400px;
-    background-color: skyblue;
-    margin: 0 auto;
+    height: 70vh;
+    width: 70%;
+    background-color: slategray;
+    margin:0 auto;
     text-align: center;
     border: 2px solid lightblue;
     box-shadow: 3px 3px 3px gray;
@@ -17,14 +17,16 @@
 }
 
 h1 {
-    background-color: mediumseagreen;
-    color: white;
-    border-bottom: 2px solid white;
+    background-color: lightseagreen;
+    color: #020200;
+    border-bottom: 2px solid #576463;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 h3 {
-    font-size: 5em;
+    font-size: 7em;
+    color: yellowgreen;
+    font-family: 'Orbitron', sans-serif;
 }
 h1, h3 {
     padding: 20px;
