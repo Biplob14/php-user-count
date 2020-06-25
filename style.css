@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.wrapper {
+    height: 300px;
+    width: 400px;
+    background-color: skyblue;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid lightblue;
+    box-shadow: 3px 3px 3px gray;
+    border-radius: 10px;
+}
+
+h1 {
+    background-color: mediumseagreen;
+    color: white;
+    border-bottom: 2px solid white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+h3 {
+    font-size: 5em;
+}
+h1, h3 {
+    padding: 20px;
+    margin: 0px;
+}
