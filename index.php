@@ -1,6 +1,7 @@
 <?php include "config.php" ?>
 
 <?php
+
     // adding new visitors
     $visitor_ip = $_SERVER['REMOTE_ADDR'];
 
